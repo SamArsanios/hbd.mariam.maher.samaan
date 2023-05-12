@@ -323,8 +323,8 @@ function reveal() {
   // ifrm.style.width = `${w}px`;
   // ifrm.style.height = `${h}px`; //https://www.youtube.com/watch?v=IGHfPrIYngg
   ifrm.style.border = "none";
-  ifrm.style.width = 285;
-  ifrm.style.height = 235;
+  ifrm.style.width = 286;
+  ifrm.style.height = 185;
   ifrm.style.alignContent = "center";
   document.querySelector("#video").appendChild(ifrm);
 }
