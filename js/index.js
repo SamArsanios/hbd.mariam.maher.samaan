@@ -325,7 +325,7 @@ function reveal() {
   // ifrm.style.height = `${h}px`; //https://www.youtube.com/watch?v=IGHfPrIYngg
   ifrm.style.border = "none";
   ifrm.style.width = 286;
-  ifrm.style.height = 185;
+  ifrm.style.height = 175;
   ifrm.style.alignContent = "center";
   document.querySelector("#video").appendChild(ifrm);
 }
