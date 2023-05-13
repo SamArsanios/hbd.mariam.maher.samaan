@@ -35,8 +35,9 @@ div#video {
 }
 
 div#video iframe {
-  width: 255px;
-  height: 155px;
+  border: 1px solid black
+  width: 290px;
+  height: 185px;
 }
 
 #people {
