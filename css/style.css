@@ -166,8 +166,8 @@ div#sea {
 .icons {
   position: absolute;
   left: 10px;
-  /*top:50%;
-  width: 100%;*/
+  top:12%;
+/*   width: 100%; */
   height: auto;
   transform: translateY(10px) rotate(-20deg);
 }
