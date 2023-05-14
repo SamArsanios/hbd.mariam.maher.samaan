@@ -165,8 +165,6 @@ div#sea {
 
 .icons {
   position: absolute;
-  left: 570px;
-  top: 130px;
 /*   width: 100%; */
   height: auto;
   transform: translateY(10px) rotate(-20deg);
@@ -426,7 +424,8 @@ div#sea {
 
 @media (min-width: 1000px) {
   .icons {
-    left: 30px;
+    left: 570px;
+    top: 130px;
   }
 
   .icons .row span {
